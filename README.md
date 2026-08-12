@@ -2,6 +2,12 @@
 
 A fully automated, multi-agent AI research pipeline that gathers, analyzes, and drafts complete research reports. It is built using **Python, LangChain, and Streamlit**, and powered by **Groq's Llama 3** engine for incredibly fast reasoning.
 
+
+## Tech Stack
+
+- **Languages**: Python
+- **Frameworks & Libraries**: Streamlit, LangChain, Pandas, Groq API
+
 ## Features
 - **Multi-Agent Architecture**: Uses distinct agents for searching, deep-reading (scraping), writing, and critiquing.
 - **Fast Generation**: Uses Groq API and `llama-3.3-70b-versatile` under the hood.
